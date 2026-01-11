@@ -22,7 +22,6 @@ crawler:
 #   • 推送时机：有新增才推送
 #   • 显示内容：新出现的匹配频率词新闻
 #   • 适用场景：避免重复信息干扰
-
 # 推送模式选择
 report:
   mode: "daily" # 可选: "daily"|"incremental"|"current"
